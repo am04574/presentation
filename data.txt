@@ -1,0 +1,14 @@
+	
+CSE-107-01 Intro to Digital Image Process
+LECT MW	1:30-2:45pm
+CSE-120-01 Software Engineering
+LECT MW	12:00-1:15pm
+CSE-140-01 Computer Architecture
+LECT WF	3:00-4:15pm
+CSE-155-01 Intro Human-Comp Interaction
+LECT TR	1:30-2:45pm
+CSE-160-01 Computer Networks
+LECT TR 12:00-1:15pm
+
+
+
